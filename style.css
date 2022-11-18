@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+#h1{
+  text-align: center;
+  color: black;
+}
+#navbar{
+  text-align: center;
+  background-color: gainsboro;
+  margin: 0 auto;
+  width: 405px; 
+}
+#featured-property{
+  text-align: center;
+}
+#caption{
+  font-size: small;
+}
+.p{
+  margin: 0 auto;
+  width: 800px;
+  text-justify: center;
+  font-size: large;
+}
+#details{
+  text-align: center;
+}
+.box{
+  float: left;
+  background-color: brown;
+  margin: 0 auto;
+  width: 25%;
+}
+
